@@ -1,0 +1,12 @@
+.navbar{
+    background-color: greenyellow;
+}
+
+.navbar-inverse {
+    background-color: #222;
+    border-color: #080808;
+} 
+
+#active{
+    background-color: aliceblue
+}
